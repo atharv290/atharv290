@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td>🎓 B.Tech CSE</td>
-<td>AISSMS IOIT, Pune (CGPA: 7.72)</td>
+<td>AISSMS IOIT, Pune (CGPA: 7.85)</td>
 </tr>
 <tr>
 <td>💼 Experience</td>
@@ -87,12 +87,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv290&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv290&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv290&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
